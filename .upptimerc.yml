@@ -2,8 +2,6 @@ owner: armandleopold
 repo: statuspage
 
 sites:
-  - name: Traefik Dashboark
-    url: https://traefik.armandleopold.fr
   - name: Rancher
     url: https://rancher.armandleopold.fr
   - name: Grafana

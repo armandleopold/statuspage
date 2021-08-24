@@ -1,16 +1,23 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: armandleopold
+repo: statuspage
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Traefik Dashboark
+    url: https://traefik.armandleopold.fr
+  - name: Rancher
+    url: https://rancher.armandleopold.fr
+  - name: Grafana
+    url: https://grafana.armandleopold.fr
+  - name: Gitlabmonitor
+    url: https://gitlabmonitor.armandleopold.fr
+  - name: Blog
+    url: https://armandleopold.fr
+  - name: Onammu
+    url: https://onammu.fr
+  - name: Maisondejuncarot
+    url: https://maisondejuncarot.fr
+  - name: Vault
+    url: https://vault.armandleopold.fr
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

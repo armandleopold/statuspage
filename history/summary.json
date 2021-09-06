@@ -4,19 +4,19 @@
     "url": "https://rancher.armandleopold.fr",
     "icon": "https://favicons.githubusercontent.com/rancher.armandleopold.fr",
     "slug": "rancher",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 662,
-    "timeDay": 607,
-    "timeWeek": 680,
-    "timeMonth": 662,
-    "timeYear": 662,
+    "status": "up",
+    "uptime": "99.80%",
+    "uptimeDay": "97.40%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
+    "time": 663,
+    "timeDay": 633,
+    "timeWeek": 681,
+    "timeMonth": 663,
+    "timeYear": 663,
     "dailyMinutesDown": {
-      "2021-09-06": 0
+      "2021-09-06": 37
     }
   },
   {

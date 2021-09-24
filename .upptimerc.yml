@@ -16,6 +16,16 @@ sites:
     url: https://maisondejuncarot.fr
   - name: Vault
     url: https://vault.armandleopold.fr
+  - name: Files
+    url: https://files.armandleopold.fr
+  - name: Helm
+    url: https://helm.armandleopold.fr
+  - name: Slapp
+    url: https://slapp.armandleopold.fr
+  - name: 2048
+    url: https://2048.armandleopold.fr
+  - name: cv
+    url: https://cv.armandleopold.fr
 
 status-website:
   cname: status.armandleopold.fr

@@ -24,6 +24,8 @@ sites:
     url: https://slapp.armandleopold.fr
   - name: '2048'
     url: https://2048.armandleopold.fr
+  - name: Jupyter
+    url: https://jupyter.armandleopold.fr
 
 status-website:
   cname: status.armandleopold.fr

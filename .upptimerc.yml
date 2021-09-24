@@ -22,7 +22,7 @@ sites:
     url: https://helm.armandleopold.fr
   - name: Slapp
     url: https://slapp.armandleopold.fr
-  - name: 2048
+  - name: '2048'
     url: https://2048.armandleopold.fr
   - name: cv
     url: https://cv.armandleopold.fr

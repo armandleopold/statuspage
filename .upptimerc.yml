@@ -8,7 +8,7 @@ sites:
     url: https://grafana.armandleopold.fr
   - name: Gitlabmonitor
     url: https://gitlabmonitor.armandleopold.fr
-  - name: Blog
+  - name: Home Page
     url: https://armandleopold.fr
   - name: Onammu
     url: https://onammu.fr
@@ -24,8 +24,6 @@ sites:
     url: https://slapp.armandleopold.fr
   - name: '2048'
     url: https://2048.armandleopold.fr
-  - name: cv
-    url: https://cv.armandleopold.fr
 
 status-website:
   cname: status.armandleopold.fr

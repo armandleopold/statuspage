@@ -1,7 +1,7 @@
 url: https://grafana.armandleopold.fr
-status: down
-code: 404
-responseTime: 407
-lastUpdated: 2021-10-23T12:06:09.503Z
+status: up
+code: 200
+responseTime: 769
+lastUpdated: 2021-10-23T15:33:46.333Z
 startTime: Tue Aug 24 2021 08:58:35 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

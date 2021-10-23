@@ -31,6 +31,15 @@ status-website:
   cname: status.armandleopold.fr
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status Armand LEOPOLD
+  theme: night
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/armandleopold/statuspage
+      
+assignees:
+  - armandleopold
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

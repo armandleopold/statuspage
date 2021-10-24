@@ -14,8 +14,6 @@ sites:
     url: https://onammu.fr
   - name: Maisondejuncarot
     url: https://maisondejuncarot.fr
-  - name: Vault
-    url: https://vault.armandleopold.fr
   - name: Files
     url: https://files.armandleopold.fr
   - name: Helm

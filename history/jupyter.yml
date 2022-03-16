@@ -1,7 +1,7 @@
 url: https://jupyterlab.armandleopold.fr
-status: up
-code: 200
-responseTime: 766
-lastUpdated: 2022-03-16T11:46:55.629Z
+status: down
+code: 503
+responseTime: 397
+lastUpdated: 2022-03-16T19:43:03.201Z
 startTime: Fri Sep 24 2021 16:10:32 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

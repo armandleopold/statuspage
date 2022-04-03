@@ -6,9 +6,7 @@ sites:
     url: https://rancher.armandleopold.fr
   - name: Grafana
     url: https://grafana.armandleopold.fr
-  - name: Gitlabmonitor
-    url: https://gitlabmonitor.armandleopold.fr
-  - name: Home Page
+  - name: Blog
     url: https://armandleopold.fr
   - name: Onammu
     url: https://onammu.fr

@@ -22,6 +22,8 @@ sites:
     url: https://2048.armandleopold.fr
   - name: Jupyter
     url: https://jupyterlab.armandleopold.fr
+  - name: Qalita
+    url: https://qalita.io
 
 status-website:
   cname: status.armandleopold.fr

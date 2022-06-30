@@ -8,8 +8,6 @@ sites:
     url: https://grafana.armandleopold.fr
   - name: Blog
     url: https://armandleopold.fr
-  - name: Onammu
-    url: https://onammu.fr
   - name: Maisondejuncarot
     url: https://maisondejuncarot.fr
   - name: Files

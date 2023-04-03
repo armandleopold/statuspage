@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.78%",
     "time": 614,
-    "timeDay": 482,
-    "timeWeek": 569,
+    "timeDay": 539,
+    "timeWeek": 537,
     "timeMonth": 576,
     "timeYear": 583,
     "dailyMinutesDown": {
@@ -23,8 +23,7 @@
       "2022-05-09": 1440,
       "2022-05-08": 1440,
       "2022-05-07": 440,
-      "2022-04-04": 1029,
-      "2022-04-03": 599
+      "2022-04-04": 1029
     }
   },
   {
@@ -38,11 +37,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.03%",
-    "time": 715,
-    "timeDay": 574,
-    "timeWeek": 702,
-    "timeMonth": 714,
-    "timeYear": 704,
+    "time": 716,
+    "timeDay": 782,
+    "timeWeek": 690,
+    "timeMonth": 717,
+    "timeYear": 705,
     "dailyMinutesDown": {
       "2023-01-25": 16,
       "2022-07-30": 22,
@@ -51,8 +50,7 @@
       "2022-05-09": 1440,
       "2022-05-08": 1440,
       "2022-05-07": 437,
-      "2022-04-04": 308,
-      "2022-04-03": 20
+      "2022-04-04": 308
     }
   },
   {
@@ -65,10 +63,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.00%",
-    "time": 486,
-    "timeDay": 310,
-    "timeWeek": 450,
+    "uptimeYear": "99.01%",
+    "time": 487,
+    "timeDay": 521,
+    "timeWeek": 446,
     "timeMonth": 474,
     "timeYear": 473,
     "dailyMinutesDown": {
@@ -79,8 +77,7 @@
       "2022-05-09": 1440,
       "2022-05-08": 1440,
       "2022-05-07": 435,
-      "2022-04-04": 307,
-      "2022-04-03": 60
+      "2022-04-04": 307
     }
   },
   {
@@ -89,14 +86,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/maisondejuncarot.fr.ico",
     "slug": "maisondejuncarot",
     "status": "up",
-    "uptime": "99.29%",
+    "uptime": "99.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.02%",
     "time": 529,
-    "timeDay": 402,
-    "timeWeek": 472,
+    "timeDay": 531,
+    "timeWeek": 457,
     "timeMonth": 474,
     "timeYear": 492,
     "dailyMinutesDown": {
@@ -106,8 +103,7 @@
       "2022-05-09": 1440,
       "2022-05-08": 1440,
       "2022-05-07": 430,
-      "2022-04-04": 306,
-      "2022-04-03": 70
+      "2022-04-04": 306
     }
   },
   {
@@ -116,16 +112,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/files.armandleopold.fr.ico",
     "slug": "files",
     "status": "up",
-    "uptime": "99.29%",
+    "uptime": "99.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.02%",
     "time": 499,
-    "timeDay": 319,
-    "timeWeek": 422,
-    "timeMonth": 451,
-    "timeYear": 491,
+    "timeDay": 414,
+    "timeWeek": 409,
+    "timeMonth": 450,
+    "timeYear": 490,
     "dailyMinutesDown": {
       "2023-01-23": 52,
       "2022-07-30": 46,
@@ -134,8 +130,7 @@
       "2022-05-09": 1440,
       "2022-05-08": 1440,
       "2022-05-07": 427,
-      "2022-04-04": 306,
-      "2022-04-03": 20
+      "2022-04-04": 306
     }
   },
   {
@@ -150,9 +145,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 153,
-    "timeDay": 56,
-    "timeWeek": 173,
-    "timeMonth": 175,
+    "timeDay": 175,
+    "timeWeek": 170,
+    "timeMonth": 172,
     "timeYear": 173,
     "dailyMinutesDown": {}
   },
@@ -168,9 +163,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 150,
-    "timeDay": 139,
-    "timeWeek": 161,
-    "timeMonth": 174,
+    "timeDay": 180,
+    "timeWeek": 157,
+    "timeMonth": 172,
     "timeYear": 179,
     "dailyMinutesDown": {}
   },
@@ -186,9 +181,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 146,
-    "timeDay": 61,
-    "timeWeek": 154,
-    "timeMonth": 169,
+    "timeDay": 151,
+    "timeWeek": 144,
+    "timeMonth": 166,
     "timeYear": 167,
     "dailyMinutesDown": {}
   },
@@ -203,9 +198,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.03%",
-    "time": 692,
-    "timeDay": 523,
-    "timeWeek": 653,
+    "time": 693,
+    "timeDay": 743,
+    "timeWeek": 647,
     "timeMonth": 689,
     "timeYear": 686,
     "dailyMinutesDown": {
@@ -214,8 +209,7 @@
       "2022-05-09": 1440,
       "2022-05-08": 1440,
       "2022-05-07": 425,
-      "2022-04-04": 305,
-      "2022-04-03": 20
+      "2022-04-04": 305
     }
   },
   {
@@ -229,11 +223,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.07%",
-    "time": 1178,
-    "timeDay": 901,
-    "timeWeek": 1075,
-    "timeMonth": 1232,
-    "timeYear": 1178,
+    "time": 1177,
+    "timeDay": 959,
+    "timeWeek": 1017,
+    "timeMonth": 1210,
+    "timeYear": 1177,
     "dailyMinutesDown": {
       "2023-01-23": 52,
       "2022-07-30": 46,

@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/rancher.armandleopold.fr.ico",
     "slug": "rancher",
     "status": "up",
-    "uptime": "98.71%",
+    "uptime": "98.72%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.63%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "95.80%",
     "uptimeYear": "98.74%",
     "time": 616,
-    "timeDay": 770,
-    "timeWeek": 658,
-    "timeMonth": 678,
-    "timeYear": 614,
+    "timeDay": 502,
+    "timeWeek": 629,
+    "timeMonth": 681,
+    "timeYear": 613,
     "dailyMinutesDown": {
       "2023-04-29": 138,
       "2023-04-23": 34,
@@ -25,8 +25,7 @@
       "2022-07-06": 231,
       "2022-05-10": 1200,
       "2022-05-09": 1440,
-      "2022-05-08": 1440,
-      "2022-05-07": 440
+      "2022-05-08": 1440
     }
   },
   {
@@ -37,14 +36,14 @@
     "status": "up",
     "uptime": "99.07%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.75%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "94.81%",
     "uptimeYear": "98.66%",
-    "time": 719,
-    "timeDay": 1025,
-    "timeWeek": 818,
-    "timeMonth": 737,
-    "timeYear": 723,
+    "time": 720,
+    "timeDay": 696,
+    "timeWeek": 865,
+    "timeMonth": 741,
+    "timeYear": 722,
     "dailyMinutesDown": {
       "2023-04-29": 328,
       "2023-04-23": 258,
@@ -55,8 +54,7 @@
       "2022-07-06": 228,
       "2022-05-10": 1200,
       "2022-05-09": 1440,
-      "2022-05-08": 1440,
-      "2022-05-07": 437
+      "2022-05-08": 1440
     }
   },
   {
@@ -67,13 +65,13 @@
     "status": "up",
     "uptime": "98.73%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.13%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "95.79%",
     "uptimeYear": "98.73%",
     "time": 485,
-    "timeDay": 614,
-    "timeWeek": 582,
-    "timeMonth": 477,
+    "timeDay": 427,
+    "timeWeek": 505,
+    "timeMonth": 481,
     "timeYear": 467,
     "dailyMinutesDown": {
       "2023-04-29": 87,
@@ -85,8 +83,7 @@
       "2022-07-06": 226,
       "2022-05-10": 1266,
       "2022-05-09": 1440,
-      "2022-05-08": 1440,
-      "2022-05-07": 435
+      "2022-05-08": 1440
     }
   },
   {
@@ -97,14 +94,14 @@
     "status": "up",
     "uptime": "98.94%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.83%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "91.91%",
     "uptimeYear": "98.41%",
     "time": 522,
-    "timeDay": 714,
-    "timeWeek": 553,
-    "timeMonth": 491,
-    "timeYear": 498,
+    "timeDay": 397,
+    "timeWeek": 534,
+    "timeMonth": 488,
+    "timeYear": 494,
     "dailyMinutesDown": {
       "2023-04-29": 118,
       "2023-04-23": 160,
@@ -115,8 +112,7 @@
       "2022-07-06": 223,
       "2022-05-10": 1246,
       "2022-05-09": 1440,
-      "2022-05-08": 1440,
-      "2022-05-07": 430
+      "2022-05-08": 1440
     }
   },
   {
@@ -127,14 +123,14 @@
     "status": "up",
     "uptime": "98.45%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.75%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "82.92%",
     "uptimeYear": "97.66%",
     "time": 495,
-    "timeDay": 704,
-    "timeWeek": 478,
-    "timeMonth": 459,
-    "timeYear": 497,
+    "timeDay": 346,
+    "timeWeek": 473,
+    "timeMonth": 458,
+    "timeYear": 496,
     "dailyMinutesDown": {
       "2023-04-29": 328,
       "2023-04-23": 242,
@@ -150,8 +146,7 @@
       "2022-07-06": 221,
       "2022-05-10": 1200,
       "2022-05-09": 1440,
-      "2022-05-08": 1440,
-      "2022-05-07": 427
+      "2022-05-08": 1440
     }
   },
   {
@@ -166,9 +161,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 169,
-    "timeDay": 195,
-    "timeWeek": 160,
-    "timeMonth": 172,
+    "timeDay": 84,
+    "timeWeek": 146,
+    "timeMonth": 170,
     "timeYear": 180,
     "dailyMinutesDown": {}
   },
@@ -184,9 +179,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 167,
-    "timeDay": 180,
-    "timeWeek": 175,
-    "timeMonth": 162,
+    "timeDay": 145,
+    "timeWeek": 171,
+    "timeMonth": 163,
     "timeYear": 178,
     "dailyMinutesDown": {}
   },
@@ -201,10 +196,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 160,
-    "timeDay": 196,
-    "timeWeek": 187,
-    "timeMonth": 183,
+    "time": 161,
+    "timeDay": 148,
+    "timeWeek": 183,
+    "timeMonth": 185,
     "timeYear": 177,
     "dailyMinutesDown": {}
   }

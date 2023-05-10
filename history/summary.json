@@ -9,11 +9,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.80%",
-    "uptimeYear": "99.20%",
+    "uptimeYear": "99.39%",
     "time": 616,
-    "timeDay": 481,
-    "timeWeek": 578,
-    "timeMonth": 677,
+    "timeDay": 640,
+    "timeWeek": 566,
+    "timeMonth": 676,
     "timeYear": 612,
     "dailyMinutesDown": {
       "2023-04-29": 138,
@@ -22,8 +22,7 @@
       "2023-04-21": 605,
       "2023-02-25": 17,
       "2022-07-30": 24,
-      "2022-07-06": 231,
-      "2022-05-10": 1200
+      "2022-07-06": 231
     }
   },
   {
@@ -36,12 +35,12 @@
     "uptimeDay": "96.51%",
     "uptimeWeek": "99.50%",
     "uptimeMonth": "94.70%",
-    "uptimeYear": "99.11%",
+    "uptimeYear": "99.29%",
     "time": 718,
-    "timeDay": 564,
-    "timeWeek": 748,
-    "timeMonth": 728,
-    "timeYear": 720,
+    "timeDay": 639,
+    "timeWeek": 720,
+    "timeMonth": 731,
+    "timeYear": 721,
     "dailyMinutesDown": {
       "2023-05-09": 50,
       "2023-04-29": 328,
@@ -50,8 +49,7 @@
       "2023-04-21": 604,
       "2023-01-25": 16,
       "2022-07-30": 22,
-      "2022-07-06": 228,
-      "2022-05-10": 1200
+      "2022-07-06": 228
     }
   },
   {
@@ -64,11 +62,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.79%",
-    "uptimeYear": "99.19%",
+    "uptimeYear": "99.37%",
     "time": 485,
-    "timeDay": 422,
-    "timeWeek": 490,
-    "timeMonth": 478,
+    "timeDay": 551,
+    "timeWeek": 486,
+    "timeMonth": 479,
     "timeYear": 467,
     "dailyMinutesDown": {
       "2023-04-29": 87,
@@ -77,8 +75,7 @@
       "2023-04-21": 603,
       "2023-01-25": 16,
       "2022-07-30": 19,
-      "2022-07-06": 226,
-      "2022-05-10": 1266
+      "2022-07-06": 226
     }
   },
   {
@@ -91,11 +88,11 @@
     "uptimeDay": "96.51%",
     "uptimeWeek": "99.50%",
     "uptimeMonth": "91.79%",
-    "uptimeYear": "98.86%",
+    "uptimeYear": "99.05%",
     "time": 520,
-    "timeDay": 436,
-    "timeWeek": 479,
-    "timeMonth": 485,
+    "timeDay": 442,
+    "timeWeek": 465,
+    "timeMonth": 483,
     "timeYear": 493,
     "dailyMinutesDown": {
       "2023-05-09": 50,
@@ -105,8 +102,7 @@
       "2023-04-21": 1440,
       "2023-04-20": 386,
       "2022-07-30": 17,
-      "2022-07-06": 223,
-      "2022-05-10": 1246
+      "2022-07-06": 223
     }
   },
   {
@@ -115,14 +111,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/files.armandleopold.fr.ico",
     "slug": "files",
     "status": "up",
-    "uptime": "98.45%",
+    "uptime": "98.46%",
     "uptimeDay": "96.51%",
     "uptimeWeek": "99.50%",
     "uptimeMonth": "82.80%",
-    "uptimeYear": "98.11%",
+    "uptimeYear": "98.29%",
     "time": 494,
-    "timeDay": 377,
-    "timeWeek": 441,
+    "timeDay": 382,
+    "timeWeek": 425,
     "timeMonth": 450,
     "timeYear": 494,
     "dailyMinutesDown": {
@@ -138,8 +134,7 @@
       "2023-04-13": 903,
       "2023-01-23": 52,
       "2022-07-30": 46,
-      "2022-07-06": 221,
-      "2022-05-10": 1200
+      "2022-07-06": 221
     }
   },
   {
@@ -154,9 +149,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 169,
-    "timeDay": 64,
-    "timeWeek": 134,
-    "timeMonth": 163,
+    "timeDay": 138,
+    "timeWeek": 126,
+    "timeMonth": 159,
     "timeYear": 179,
     "dailyMinutesDown": {}
   },
@@ -172,10 +167,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 168,
-    "timeDay": 158,
-    "timeWeek": 156,
-    "timeMonth": 162,
-    "timeYear": 177,
+    "timeDay": 250,
+    "timeWeek": 166,
+    "timeMonth": 164,
+    "timeYear": 178,
     "dailyMinutesDown": {}
   },
   {
@@ -190,9 +185,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 161,
-    "timeDay": 52,
-    "timeWeek": 160,
-    "timeMonth": 178,
+    "timeDay": 160,
+    "timeWeek": 137,
+    "timeMonth": 172,
     "timeYear": 176,
     "dailyMinutesDown": {}
   }
